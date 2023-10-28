@@ -1,6 +1,9 @@
 Welcome
 --------|
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
+
+### Facebook crack tolls 
+
 <details>
   <summary><b>More information</b></summary>
 
@@ -24,9 +27,9 @@ pip install rich
 pip install mechanize
 pip install bs4
 pip install futures
-git clone https://github.com/AndiXtzy/Cloning.git
+git clone https://github.com/AndiXtzy/Borneo-X
 cd Borneo-X
-python Cloning.py
+python Borneo.py
 ```
 
 ** JANGAN LUPA KASIH BINTANG **
